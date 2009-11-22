@@ -1,13 +1,16 @@
-WWW::Shorten::Qurl
+WWW::Shorten::OneShortLink
 
-Perl interface to Qurl.com. Qurl.com is a URL-shortening site.
+Perl interface to 1sl.net. 1sl.net is a URL-shortening site.
+
+NOTE: This software is no longer maintained as 1sl.net is no longer a
+working service.
 
 For installation details, see INSTALL.
 
 For usage, see the documentation. Either use perldoc or view it
 on the web at:
 
-    http://search.cpan.org/dist/WWW-Shorten-Qurl/
+    http://search.cpan.org/dist/WWW-Shorten-OneShortLink/
 
 In order to use this module you will need to also use WWW::Shorten.
 See http://search.cpan.org/dist/WWW-Shorten/ for more details. 

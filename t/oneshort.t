@@ -2,7 +2,7 @@ use Test::More tests => 8;
 
 BEGIN { use_ok WWW::Shorten::OneShortLink };
 
-my $url = 'http://dellah.org/';
+my $url = 'http://code.mag-sol.com/WWW-Shorten';
 my $short = makeashorterlink( $url );
 ok((defined $short), 'Reasonable response');
 like ( $short => qr{^http://1sl\.net/\w+$}, 'make it shorter' );
