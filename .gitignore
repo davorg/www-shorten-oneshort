@@ -1,12 +1,10 @@
 WWW-Shorten-OneShort*.tar.gz
 WWW-Shorten-OneShort*/
 Build
-Changes
 META.json
 META.yml
 MYMETA.json
 MYMETA.yml
-Makefile.PL
 _build/
 blib/
 cover_db/

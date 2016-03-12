@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '9.991';
+our $VERSION = '9.992';
 $VERSION = eval $VERSION;
 
 require WWW::Shorten::_dead;
