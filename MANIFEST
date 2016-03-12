@@ -1,5 +1,0 @@
-Build.PL
-lib/WWW/Shorten/OneShortLink.pm
-MANIFEST			This list of files
-README.md
-t/oneshort.t
