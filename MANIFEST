@@ -1,9 +1,5 @@
-Changes
-lib/WWW/Shorten/OneShortLink.pm
-Makefile.PL
 Build.PL
-MANIFEST
-META.yml
-README
-t/99pod.t
+lib/WWW/Shorten/OneShortLink.pm
+MANIFEST			This list of files
+README.md
 t/oneshort.t

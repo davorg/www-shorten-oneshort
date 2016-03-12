@@ -1,59 +1,51 @@
-# $Id$
-
-=head1 NAME
-
-WWW::Shorten::OneShortLink - Perl interface to 1sl.net
-
-=head1 SYNOPSIS
-
-  use WWW::Shorten::OneShortLink;
-
-  use WWW::Shorten 'OneShortLink';
-
-  $short_url = makeashorterlink($long_url);
-
-  $long_url  = makealongerlink($short_url);
-
-=head1 DESCRIPTION
-
-A Perl interface to the web site 1sl.net. OneShortLink simply maintains
-a database of long URLs, each of which has a unique identifier.
-
-OneShortLink's web site is currently returning a default Apache page, so
-I'm marking the site as dead.
-
-=cut
-
 package WWW::Shorten::OneShortLink;
 
 use 5.006;
 use strict;
 use warnings;
 
+our $VERSION = '9.991';
+$VERSION = eval $VERSION;
+
 require WWW::Shorten::_dead;
-our $VERSION = '9.99';
 
 0;
 
+=head1 NAME
 
-__END__
+WWW::Shorten::OneShortLink - Shorten URLs
 
-=head2 EXPORT
+=head1 SYNOPSIS
 
-makeashorterlink, makealongerlink
+  # no viable UserAgent
 
-=head1 SUPPORT, LICENCE, THANKS and SUCH
+=head1 DESCRIPTION
 
-See the main L<WWW::Shorten> docs.
+This module is deprecated since the service no longer functions.  Please
+see L<WWW::Shorten> instead.
 
 =head1 AUTHOR
 
-Maintained by Iain Truskett <spoon@cpan.org>
+P J Goodwin
 
-Original by P J Goodwin.
+=head1 CONTRIBUTORS
+
+=over
+
+=item Chase Whitener C<capoeirab@cpan.org> -- current maintainer
+
+=item Dave Cross <dave@perlhacks.com>
+
+=item Iain Truskett <spoon@cpan.org>
+
+=back
+
+=head1 COPYRIGHT AND LICENSE
+
+Under the terms and copyright of L<WWW::Shorten>
 
 =head1 SEE ALSO
 
-L<WWW::Shorten>, L<perl>, L<http://1sl.net/>
+L<WWW::Shorten>
 
 =cut
