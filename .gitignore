@@ -10,3 +10,4 @@ Makefile.PL
 _build/
 blib/
 cover_db/
+.build/
