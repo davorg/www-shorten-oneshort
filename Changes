@@ -1,4 +1,4 @@
-9.992   2016-
+9.992   2016-03-13
     - Added contributors section to dzil
 
 9.991   2016-03-11
@@ -6,16 +6,7 @@
     - Standardized documentation a bit. Made sure links were present.
 
 9.99    2015-07-19
-    - Marked 1sl as dead. Bumped version for release. [f1dd80d]
-
-2015-07-18
-    - Added .travis.yml [8ce302b]
-
-2015-07-17
-    - Added .gitignore [33b866a]
-
-2009-11-22
-    - Discovered that 1sl.net is dead. That was easy :-/ [cd5e324]
-
-2009-11-21
-    - Initial version. [b66d608]
+    - Marked 1sl as dead. Bumped version for release. 
+    - Added .travis.yml
+    - Added .gitignore
+    - Discovered that 1sl.net is dead. That was easy :-/
