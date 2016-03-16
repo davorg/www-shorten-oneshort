@@ -13,7 +13,7 @@ require WWW::Shorten::_dead;
 
 =head1 NAME
 
-WWW::Shorten::OneShortLink - Shorten URLs
+WWW::Shorten::OneShortLink - (DEPRECATED) Shorten URLs
 
 =head1 SYNOPSIS
 
@@ -32,11 +32,17 @@ P J Goodwin
 
 =over
 
-=item Chase Whitener C<capoeirab@cpan.org> -- current maintainer
+=item *
 
-=item Dave Cross <dave@perlhacks.com>
+Chase Whitener C<capoeirab@cpan.org>
 
-=item Iain Truskett <spoon@cpan.org>
+=item *
+
+Dave Cross <dave@perlhacks.com>
+
+=item *
+
+Iain Truskett <spoon@cpan.org>
 
 =back
 

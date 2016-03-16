@@ -1,12 +1,17 @@
-9.992   2016-03-13
+Revision history for {{$dist->name}}
+
+{{$NEXT}}
     - Added contributors section to dzil
+    - cleaned up pod
+    - added deprecation notice and meta data
+    - added skip clause to author testing
 
 9.991   2016-03-11
     - Cleaned up a bit, removed from TravisCI (No need to CI test a dead dist)
     - Standardized documentation a bit. Made sure links were present.
 
 9.99    2015-07-19
-    - Marked 1sl as dead. Bumped version for release. 
+    - Marked 1sl as dead. Bumped version for release.
     - Added .travis.yml
     - Added .gitignore
     - Discovered that 1sl.net is dead. That was easy :-/
