@@ -19,7 +19,7 @@ P J Goodwin
 
 # CONTRIBUTORS
 
-- Chase Whitener capoeirab@cpan.org -- current maintainer
+- Chase Whitener capoeirab@cpan.org
 - Dave Cross dave@perlhacks.com
 - Iain Truskett spoon@cpan.org
 

@@ -60,7 +60,7 @@
          "web" : "https://github.com/p5-shorten/www-shorten-oneshort"
       }
    },
-   "version" : "9.992",
+   "version" : "9.993",
    "x_contributors" : [
       "Chase Whitener <capoeirab@cpan.org>",
       "Dave Cross C<davecross@cpan.org>",

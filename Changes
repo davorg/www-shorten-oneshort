@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+9.992     2016-03-16
     - Added contributors section to dzil
     - cleaned up pod
     - added deprecation notice and meta data
